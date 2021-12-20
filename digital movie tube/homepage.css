@@ -1,0 +1,73 @@
+body{
+  background-image: url(images/6.jpeg);
+  font-family: sans-serif;
+  height: 100%;
+;
+}
+
+.navbar-text{
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+
+}
+.navbar li{
+  padding: 0 40px;
+  position: relative;
+}
+.nav-item a{
+  float: right;
+  color: #f2f2f2;
+  
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.navbar span{
+  font-size: 25px;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1px;
+}
+.nav-item a:hover{
+  color: orange;
+  border-bottom: 2px solid orange;
+}
+
+.navbar-brand img{
+  height: 80px;
+
+}
+
+.container-fluid{
+   background-image: url(images/a.jpg);
+  height: 50vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  border: 5px solid black;
+}
+.container-fluid h1{
+  color: black;
+}
+
+
+
+.page-footer{
+  background-color: black;
+  color: white;
+}
+.col a{
+  text-align: center;
+}
+
+.jumbotron{
+  background-image: url(images/ba.jpeg);
+}
